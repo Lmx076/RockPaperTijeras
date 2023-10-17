@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Charles Severance - Broken Rock Paper Scissors</title>
+<title>Charles Severance - Broken Rock Paper Scissors 9b92a91f </title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
